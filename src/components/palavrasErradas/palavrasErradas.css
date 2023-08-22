@@ -1,0 +1,6 @@
+.pe {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  top: 100%;
+}
